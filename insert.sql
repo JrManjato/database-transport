@@ -110,29 +110,29 @@ insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee
 insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values ('2022/06/12', '15:00', '8', '5');
 
 -- reserver
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (1, 2, 5, 10, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (2, 2, 15, 10, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (3, 1, 3, 9, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (4, 3, 11, 2, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (5, 3, 8, 7, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (6, 2, 2, 5, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (7, 3, 5, 4, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (8, 1, 4, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (9, 1, 7, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (10, 2, 1, 1, 2000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (11, 2, 12, 10, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (12, 1, 2, 5, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (13, 3, 6, 1, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (14, 1, 3, 3, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (15, 1, 8, 10, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (16, 1, 5, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (17, 3, 2, 6, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (18, 1, 8, 10, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (19, 1, 13, 5, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (20, 1, 2, 3, 1000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (21, 3, 12, 9, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (22, 3, 3, 4, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (23, 1, 10, 4, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (1, 2, 5, 10, 20000, 1);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (2, 2, 15, 10, 20000, 1);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (3, 1, 3, 9, 10000, 2);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (4, 3, 11, 2, 30000, 2);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (5, 3, 8, 7, 30000, 3);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (6, 2, 2, 5, 20000, 3);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (7, 3, 5, 4, 10000, 4);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (8, 1, 4, 1, 10000, 4);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (9, 1, 7, 1, 10000, 5);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (10, 2, 1, 1, 2000, 5);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (11, 2, 12, 10, 10000, 6);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (12, 1, 2, 5, 10000, 6);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (13, 3, 6, 1, 30000, 7);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (14, 1, 3, 3, 10000, 7);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (15, 1, 8, 10, 10000, 8);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (16, 1, 5, 1, 10000, 8);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (17, 3, 2, 6, 10000, 9);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (18, 1, 8, 10, 10000, 9);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (19, 1, 13, 5, 10000, 10);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (20, 1, 2, 3, 1000, 10);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (21, 3, 12, 9, 30000, 1);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (22, 3, 3, 4, 20000, 1);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (23, 1, 10, 4, 10000, 1);
 
 -- maintenance
 insert into maintenance (nom_maintenance,cout) values ('réparation','140000');
@@ -144,7 +144,7 @@ insert into requerir (id_maintenance, id_vehicule) values ('2', '9');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '7');
 insert into requerir (id_maintenance, id_vehicule) values ('2', '2');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '5');
-insert into requerir (id_maintenance, id_vehicule) values ('2', '8');>
+insert into requerir (id_maintenance, id_vehicule) values ('2', '8');
 insert into requerir (id_maintenance, id_vehicule) values ('2', '4');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '6');
 insert into requerir (id_maintenance, id_vehicule) values ('2', '3');
