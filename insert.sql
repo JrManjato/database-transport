@@ -52,26 +52,26 @@ insert into client (nom_client, prenom_client, contact) values ('Wellfare', 'Nin
 insert into client (nom_client, prenom_client, contact) values ('Jaqueme', 'Maurizia', '034 03 611 41');
 
 --insert chauffeur
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Hamilton Caccavari', '034 70 863 63', 'hcaccavaris@reference.com','1');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jeffy Devenish', '034 93 367 25', 'jdevenisht@bandcamp.com','2');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Ric Trees', '034 22 747 80', 'rtreesu@amazon.de','3');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Roana Killshaw', '034 61 134 30', 'rkillshawv@statcounter.com','4');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Giacopo Forber', '034 49 221 31', 'gforberw@xinhuanet.com','5');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Clarine Veal', '034 06 473 34', 'cvealx@jigsy.com','6');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Issie O''Duane', '034 46 463 69', 'ioduaney@examiner.com','7');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Dareen Shave', '034 39 530 67', 'dshavez@spiegel.de','8');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Reena Hiom', '034 57 008 80', 'rhiom10@youku.com','9');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Phillis Kewzick', '034 59 540 33', 'pkewzick11@google.com','10');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Steward Eltone', '034 18 938 91', 'seltone12@bloglines.com','11');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Suzanne Dodswell', '034 31 881 13', 'sdodswell13@artisteer.com','12');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Krystle Gullam', '034 27 473 76', 'kgullam14@ucla.edu','13');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Mariam Pryde', '034 16 245 52', 'mpryde15@tamu.edu','14');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jae Menat', '034 03 657 70', 'jmenat16@weather.com','15');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Isis Pinkney', '034 25 503 25', 'ipinkney17@squidoo.com','16');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Mari Makin', '034 93 321 14', 'mmakin18@symantec.com','17');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jodee Moens', '034 53 891 50', 'jmoensh@alibaba.com','18');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Oralie Mulvy', '034 30 387 43', 'omulvyi@msn.com','19');
-insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Lucilia Collinge', '034 88 007 28', 'lcollingej@issuu.com','20');
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Hamilton Caccavari', '034 70 863 63', 'hcaccavaris@reference.com', 1);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jeffy Devenish', '034 93 367 25', 'jdevenisht@bandcamp.com', 1);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Ric Trees', '034 22 747 80', 'rtreesu@amazon.de', 2);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Roana Killshaw', '034 61 134 30', 'rkillshawv@statcounter.com', 2);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Giacopo Forber', '034 49 221 31', 'gforberw@xinhuanet.com', 3);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Clarine Veal', '034 06 473 34', 'cvealx@jigsy.com', 3);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Issie O''Duane', '034 46 463 69', 'ioduaney@examiner.com', 4);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Dareen Shave', '034 39 530 67', 'dshavez@spiegel.de', 4);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Reena Hiom', '034 57 008 80', 'rhiom10@youku.com', 5);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Phillis Kewzick', '034 59 540 33', 'pkewzick11@google.com', 5);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Steward Eltone', '034 18 938 91', 'seltone12@bloglines.com', 6);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Suzanne Dodswell', '034 31 881 13', 'sdodswell13@artisteer.com', 6);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Krystle Gullam', '034 27 473 76', 'kgullam14@ucla.edu', 7);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Mariam Pryde', '034 16 245 52', 'mpryde15@tamu.edu', 7);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jae Menat', '034 03 657 70', 'jmenat16@weather.com', 8);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Isis Pinkney', '034 25 503 25', 'ipinkney17@squidoo.com', 8);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Mari Makin', '034 93 321 14', 'mmakin18@symantec.com', 9);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Jodee Moens', '034 53 891 50', 'jmoensh@alibaba.com', 9);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Oralie Mulvy', '034 30 387 43', 'omulvyi@msn.com', 10);
+insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('Lucilia Collinge', '034 88 007 28', 'lcollingej@issuu.com', 10);
 
 -- offre
 insert into offre (type,tarif) values ('lite','10000');
@@ -89,43 +89,6 @@ insert into vehicules (nombre_places, places_dispo, matricule) values (22, 7, '7
 insert into vehicules (nombre_places, places_dispo, matricule) values (22, 1, '4725TAC');
 insert into vehicules (nombre_places, places_dispo, matricule) values (22, 9, '3608TBB');
 insert into vehicules (nombre_places, places_dispo, matricule) values (22, 10,'4987TAV');
-
---utiliser
-insert into utiliser (id_vehicule, id_voyage) values ('1', '1');
-insert into utiliser (id_vehicule, id_voyage) values ('2', '2');
-insert into utiliser (id_vehicule, id_voyage) values ('3', '3');
-insert into utiliser (id_vehicule, id_voyage) values ('4', '4');
-insert into utiliser (id_vehicule, id_voyage) values ('5', '5');
-insert into utiliser (id_vehicule, id_voyage) values ('6', '6');
-insert into utiliser (id_vehicule, id_voyage) values ('7', '7');
-insert into utiliser (id_vehicule, id_voyage) values ('8', '8');
-insert into utiliser (id_vehicule, id_voyage) values ('9', '9');
-insert into utiliser (id_vehicule, id_voyage) values ('10', '10');
-
--- reserver
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (1, 1, 31, 7, 0);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (2, 2, 18, 10, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (3, 1, 3, 9, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (4, 3, 16, 2, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (5, 3, 8, 7, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (6, 2, 20, 5, 20000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (7, 3, 35, 4, 0);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (8, 1, 4, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (9, 1, 27, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (10, 2, 21, 1, 2000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (11, 2, 1, 10, 0);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (12, 1, 20, 5, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (13, 3, 16, 1, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (14, 1, 30, 3, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (15, 1, 28, 10, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (16, 1, 15, 1, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (17, 3, 25, 6, 0);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (18, 1, 18, 10, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (19, 1, 23, 5, 10000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (20, 1, 2, 3, 1000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (21, 3, 12, 9, 30000);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (22, 3, 31, 4, 0);
-insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (23, 1, 10, 4, 10000);
 
 --voyage
 insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values ('2022/06/09', '11:00', '1', '11');
@@ -146,6 +109,31 @@ insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee
 insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values ('2022/06/12', '13:00', '5', '17');
 insert into voyage (jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values ('2022/06/12', '15:00', '8', '5');
 
+-- reserver
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (1, 2, 5, 10, 20000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (2, 2, 15, 10, 20000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (3, 1, 3, 9, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (4, 3, 11, 2, 30000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (5, 3, 8, 7, 30000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (6, 2, 2, 5, 20000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (7, 3, 5, 4, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (8, 1, 4, 1, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (9, 1, 7, 1, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (10, 2, 1, 1, 2000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (11, 2, 12, 10, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (12, 1, 2, 5, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (13, 3, 6, 1, 30000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (14, 1, 3, 3, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (15, 1, 8, 10, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (16, 1, 5, 1, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (17, 3, 2, 6, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (18, 1, 8, 10, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (19, 1, 13, 5, 10000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (20, 1, 2, 3, 1000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (21, 3, 12, 9, 30000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (22, 3, 3, 4, 20000);
+insert into reserver (id_client, id_offre, id_voyage, place, montant_paye) values (23, 1, 10, 4, 10000);
+
 -- maintenance
 insert into maintenance (nom_maintenance,cout) values ('réparation','140000');
 insert into maintenance (nom_maintenance,cout) values ('essence','70000');
@@ -156,8 +144,7 @@ insert into requerir (id_maintenance, id_vehicule) values ('2', '9');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '7');
 insert into requerir (id_maintenance, id_vehicule) values ('2', '2');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '5');
-insert into requerir (id_maintenance, id_vehicule) values ('2', '8');
-insert into requerir (id_maintenance, id_vehicule) values ('1', '1');
+insert into requerir (id_maintenance, id_vehicule) values ('2', '8');>
 insert into requerir (id_maintenance, id_vehicule) values ('2', '4');
 insert into requerir (id_maintenance, id_vehicule) values ('1', '6');
 insert into requerir (id_maintenance, id_vehicule) values ('2', '3');
