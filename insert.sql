@@ -135,8 +135,8 @@ insert into reserver (id_client, id_offre, id_voyage, place, montant_paye, id_ve
 insert into reserver (id_client, id_offre, id_voyage, place, montant_paye, id_vehicule) values (23, 1, 10, 4, 10000, 1);
 
 -- maintenance
-insert into maintenance (nom_maintenance,cout) values ('réparation','140000');
-insert into maintenance (nom_maintenance,cout) values ('essence','70000');
+insert into maintenance (nom_maintenance,cout,jour_maintenance) values ('réparation','140000', '2022/06/12');
+insert into maintenance (nom_maintenance,cout,jour_maintenance) values ('essence','70000', '2022/06/12');
 
 -- requerir
 insert into requerir (id_maintenance, id_vehicule) values ('1', '1');

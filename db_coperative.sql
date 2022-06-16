@@ -44,7 +44,8 @@ create table ville
 create table maintenance
 (
     id_maintenance serial PRIMARY KEY,
-    cout int not NULL
+    cout int not NULL,
+    jour_maintenance Date not null
 );
 
 create table requerir
